@@ -1,0 +1,22 @@
+
+asyncio
+logging
+numpy
+pandas
+# gymnasium
+gym
+ccxt
+stable_baselines3
+ta
+python-dotenv
+
+optuna
+torch
+wheel
+setuptools
+pandas
+python-dotenv
+tensorboard
+typing
+argparse
+torch-tb-profiler
